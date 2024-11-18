@@ -8,8 +8,8 @@
 
    Log out each variable to the terminal at the end.
 */
-const user = "John Doe";
-const salary = 1000;
+const user = "Biel";
+const salary = 10000;
 const visibility = true;
 const data = null;
 const state = undefined;
