@@ -9,3 +9,17 @@
       Log 'name' value.
 
 */
+let musician = "Kendrick Lamar";
+
+function updateValue(name) {
+  musician = name;
+}
+
+updateValue("Freddie Mercury");
+console.log({ musician });
+
+updateValue(true);
+console.log({ musician });
+
+updateValue(28);
+console.log({ musician });
